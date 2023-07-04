@@ -1,3 +1,5 @@
+# motor-learning-OKR
+
 This repo holds my final project for COGS 378: Computational Neuroscience at CWRU.
 
 The project is based on the paper "Modeling Memory Consolidation During Posttraining Periods in Cerebellovestibular Learning" [[1]](1). We used MATLAB to reimplement the numerical model of the neural and synaptic activation in the cerebellar cortex derived in the paper, and use the simulation to explore questions related to memory formation during and after motor training of the optokinetic reponse (OKR), a type of reflexive eye movement.
